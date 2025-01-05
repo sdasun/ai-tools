@@ -1,0 +1,5 @@
+python-dotenv
+requests
+rich
+openai
+typer
